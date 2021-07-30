@@ -6,7 +6,7 @@
   "homepage": "https://Elena-86.github.io/goit-js-hw-12",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url https://Elena-86.github.io/goit-js-hw-12"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12/"
   },
   "repository": {
     "type": "git",
